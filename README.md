@@ -1,2 +1,1 @@
-# ilk-dev
-ödev
+ÖDEV BU DEĞİL BU ÇÖP SİLEMEDİM:/
